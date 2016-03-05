@@ -1,0 +1,73 @@
+HTML elements:
+--------------
+
+Div
+
+span
+
+table
+
+iframe
+
+object
+
+
+
+CSS Presudo selectors
+---------------------
+
+:hover
+
+:visited
+
+:before
+
+:after
+
+:nth-child(n)
+
+display 
+
+position
+
+transition
+
+transform
+
+background
+
+margin
+
+border
+
+padding
+
+
+
+Javascript
+_----------
+
+embedding internally or externally
+
+syntax declaration : variables- integer, string, arrays, floats, object.
+
+writing comments
+
+dom: element selector
+
+loops : if, if else, for...
+
+date
+
+Style eg. document.getElementById("p2").style.color = "blue";
+
+using alert
+
+debugging: writing to console
+
+
+
+function: creating and returning value 
+
+events: mouseover, mousedown,onclick...
+
